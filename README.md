@@ -3,6 +3,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisTsai-Csie&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisTsai-Csie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouisTsai-Csie&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouisTsai-Csie&repo=convoychat" />
+</a>
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTsai-Csie&repo=LouisTsai-Csie)](https://github.com/anuraghazra/github-readme-stats)
 -->
