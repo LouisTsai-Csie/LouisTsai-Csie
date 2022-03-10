@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisTsai-Csie&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisTasi-Csie&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisTsai-Csie&show_icons=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisTsai-Csie&show_icons=true&theme=radical)
 
