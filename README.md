@@ -1,12 +1,23 @@
 ### Introdction
++ Studying Computer Science and Information Engineering in National Taiwan University. 
++ Public Relations in CSIE Student Association.
++ Medium Writer -> https://medium.com/@q-17202
+
+### Currently Working On
++ LineBot Projects
++ Blockchain application
++ Machine Learning Courses
++ Operationg System Fundamental
+
+### My Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisTsai-Csie&show_icons=true&theme=tokyonight)
 
+### Some Statistics
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisTsai-Csie&layout=compact&show_icons=true&theme=tokyonight&langs_count=5&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisTsai-Csie&repo=LouisTsai-Csie)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 <!--
 **LouisTsai-Csie/LouisTsai-Csie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
