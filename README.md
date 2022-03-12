@@ -2,6 +2,7 @@
 + Studying Computer Science and Information Engineering in National Taiwan University. 
 + Public Relations in CSIE Student Association.
 + Medium Writer -> https://medium.com/@q-17202
++ NFT Artist -> https://akaswap.com/tz/tz1LBMHonxg8VuShNm6BJXKwWMUsDZ5cE2QB
 
 ### Currently Working On
 + LineBot Projects
