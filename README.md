@@ -18,7 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisTsai-Csie&layout=compact&show_icons=true&theme=tokyonight&langs_count=5&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-![Metrics](https://metrics.lecoq.io/username)
 <!--
 **LouisTsai-Csie/LouisTsai-Csie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
