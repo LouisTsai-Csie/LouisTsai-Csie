@@ -1,4 +1,4 @@
-### Introdoction
+### Introduction
 + Studying Computer Science and Information Engineering in National Taiwan University. 
 + Public Relations in CSIE Student Association.
 + Medium Writer -> https://medium.com/@q-17202
