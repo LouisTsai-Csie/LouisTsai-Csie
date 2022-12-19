@@ -5,8 +5,10 @@
 + NFT Artist -> https://akaswap.com/tz/tz1LBMHonxg8VuShNm6BJXKwWMUsDZ5cE2QB
 
 ### Currently Working On
-+ LineBot Projects
-+ Blockchain application
++ LineBot Projects：
+  1. food_collection bot: https://fresh-milkshake-fec.notion.site/Menu-related-e660c4846e1846b0aec5e5e37d82fe88
+  2. prachain: https://fresh-milkshake-fec.notion.site/WEB-3-0-41c7abc85e80440bb2a5ce17dc2ecb93
++ Blockchain application: http://cert.caece.net/
 + Machine Learning Courses
 + Operationg System Fundamental
 
