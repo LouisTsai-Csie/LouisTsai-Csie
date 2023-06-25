@@ -10,14 +10,14 @@ Major in Computer Science and Information Engineering. <br>
 <br>
 I am passionate about software development and smart contract auditing.
 
-<h3> Currently Working On </h3>
+<h3> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Currently Working On </h3>
 <h5> The following are projects that I am developing, welcome to share your idea with me. </h5>
 <li> MIT 6.S081 </li>
 <li> Ethernaut </li>
 <li> Smart Contract Security Research </li>
 
     
-<h3> Projects </h3>
+<h3><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Projects </h3>
 
 <h5> The following are my previous rojects, feel free to give me your feedback. </h5>
 <li><a href="http://cert.caece.net/">NTU CAECE NFT Certificate System</a></li>
