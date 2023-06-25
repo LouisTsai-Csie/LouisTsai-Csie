@@ -5,7 +5,7 @@
 <h2> Hello, My name is Louis  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 Welcome to my github page! ✨✨ <br>
 <br>
-I am a senior student in National Taiwan University. <br>
+A senior student in National Taiwan University. <br>
 Major in Computer Science and Information Engineering. <br>
 <br>
 I am passionate about software development and smart contract auditing.
