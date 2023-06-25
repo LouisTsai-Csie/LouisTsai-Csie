@@ -24,12 +24,10 @@ I am passionate about software development and smart contract auditing.
 
 <h3><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Status </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisTsai-Csie&show_icons=true&theme=tokyonight)
-
-
-<h3><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Statistics </h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisTsai-Csie&layout=compact&show_icons=true&theme=tokyonight&langs_count=5&hide=html,css)
+<div width="100%" display="flex" align-item="center" justify-content="center">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=LouisTsai-Csie&show_icons=true&theme=tokyonight">
+<img height="150px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisTsai-Csie&layout=compact&show_icons=true&theme=tokyonight&langs_count=5&hide=html,css">
+</div>
 
 <h3><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Skills </h3>
 
