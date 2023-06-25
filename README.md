@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/LouisTsai-Csie/LouisTsai-Csie/output/github-snake.svg)
 
 <p font-size="3px"> Wait! the snake above is eating my contributions! </p>
-<br>
+
 <h2> Hello, My name is Louis  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 Welcome to my github page! ✨✨ <br>
 <br>
