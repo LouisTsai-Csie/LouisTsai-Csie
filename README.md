@@ -1,4 +1,4 @@
-<h1> Hello, My name is Louis Tsai<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1> Welcome, My name is Louis Tsai<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 Welcome to my github page! ✨✨ <br>
 <br>
 
@@ -21,12 +21,16 @@ Welcome to my github page! ✨✨ <br>
 <br>
 I am learning Web3 security, let's make Web3 a safer place!
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 <h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> My Projects</h2>
 <h3>CTF Challenges</h3>
 <li><a href="https://github.com/LouisTsai-Csie/ethernaut-foundry">Ethernauts</a></li>
 <li><a href="https://github.com/LouisTsai-Csie/damn-vulnerable-defi-foundry">Damn Vulnerable DeFi</li>
 <li><a href="https://github.com/LouisTsai-Csie/quillctf-solution">QuillCTF</li>
 <li>OnlyPwner</li>
+  
 
 <h3>Open Source Projects</h3>
 <li><a href="https://github.com/LouisTsai-Csie/awesome-smart-contract-analysis-tools">Awesome Smart Contract Analysis Tools</a>：A curated list of awesome smart contract analysis tools</li>
@@ -36,6 +40,10 @@ I am learning Web3 security, let's make Web3 a safer place!
 <h3> Past Projects </h3>
 <li><a href="">LendMixer</a>：A minimal flash loan service for user </li>
 <li><a href="">Sheet Handler</a>：A data processing tool for NTU SW global welfare program</li>
+
+<h3> Publication </h3>
+<li> <a href="https://ieeexplore.ieee.org/document/10349130">Secure Medical Data Management Based on Homomorphic Encryption and Secret Sharing</a </li>
+<li> <a href="https://www.computer.org/csdl/proceedings-article/blockchain/2023/192900a151/1U85Itfjn1K">Unveiling Vulnerabilities in DAO: A Comprehensive Security Analysis and Protective Framework</a></li>
 
 <h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> More About Me </h2>
 
@@ -51,10 +59,11 @@ I am learning Web3 security, let's make Web3 a safer place!
 <img height="150px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisTsai-Csie&layout=compact&show_icons=true&theme=tokyonight&langs_count=5&hide=html,css">
 </div>
 
-<h3><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Skills </h3>
+<h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Skills </h2>
 
 <h5> Language </h5>
 <span>
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -89,16 +98,19 @@ I am learning Web3 security, let's make Web3 a safer place!
     <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white">
     <img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white">
     <img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white">
+    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
   </span>
 <h5> Version Control </h5>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=whitev">
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 </span>
 <h5> Others </h5>
   <span>
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
     <img src="https://img.shields.io/badge/Remix-000000.svg?style=for-the-badge&logo=Remix&logoColor=white">
-    <img src="https://img.shields.io/badge/Red%20Hat-EE0000.svg?style=for-the-badge&logo=Red-Hat&logoColor=white">
+    <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white">
   </span>
   
