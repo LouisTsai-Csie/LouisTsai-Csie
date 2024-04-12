@@ -14,7 +14,7 @@ Welcome to my github page! ✨✨ <br>
 <h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Who am I?</h2>
 
 + A senior comuter science student in National Taiwan University.
-+ A Web3 security researcher & smart contract auditor <a href="https://code4rena.com/@LouisTsai">@Code4rena</a>, <a href="https://www.codehawks.com/profile/clloixi3x0000la08i46r5hc8">@Codehawks</a>, check my past <a href="https://github.com/LouisTsai-Csie/audit-profile">repost</a>.
++ A Web3 security researcher & smart contract auditor <a href="https://code4rena.com/@LouisTsai">@Code4rena</a>, <a href="https://www.codehawks.com/profile/clloixi3x0000la08i46r5hc8">@Codehawks</a>, check my past <a href="https://github.com/LouisTsai-Csie/audit-profile">report</a>.
 
 + A full-stack developer building fun projects.
 
