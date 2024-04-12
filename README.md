@@ -1,14 +1,16 @@
+<h2> Hello, My name is Louis  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+Welcome to my github page! ✨✨ <br>
+<br>
+
+<p font-size="3px"> HELP! the snake is eating my contributions! </p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LouisTsai-Csie/LouisTsai-Csie/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LouisTsai-Csie/LouisTsai-Csie/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LouisTsai-Csie/LouisTsai-Csie/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<p font-size="3px"> Wait! the snake above is eating my contributions! </p>
 
-<h2> Hello, My name is Louis  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-Welcome to my github page! ✨✨ <br>
-<br>
 A senior student in National Taiwan University. <br>
 Major in Computer Science and Information Engineering. <br>
 <br>
