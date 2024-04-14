@@ -45,9 +45,6 @@ I am learning Web3 security, let's make Web3 a safer place!
 <h3> Publication </h3>
 <li> <a href="https://ieeexplore.ieee.org/document/10349130">Secure Medical Data Management Based on Homomorphic Encryption and Secret Sharing</a </li>
 <li> <a href="https://www.computer.org/csdl/proceedings-article/blockchain/2023/192900a151/1U85Itfjn1K">Unveiling Vulnerabilities in DAO: A Comprehensive Security Analysis and Protective Framework</a></li>
-<li> Recent Posts From Medium</li>
-
-[![Louis Tsai Medium](https://github-readme-medium.vercel.app/?username=focusreading0402)](https://medium.com/@focusreading0402)
 
 <h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> More About Me </h2>
 
