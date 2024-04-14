@@ -48,8 +48,9 @@ I am learning Web3 security, let's make Web3 a safer place!
 <h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> More About Me </h2>
 
 <li>Smart Contract Auditing Fellowship Block#6 @yAcademy</li>
-<li>Backend internship @JunyiAcademy</li>
-<li>Past software trainee @AppWorks School Campus Program</li>
+<li>Past Blockchain Developer Trainee @AppWorks School Blockchain Program </li>
+<li>Backend Internship @JunyiAcademy</li>
+<li>Past Software Trainee @AppWorks School Campus Program</li>
 
 <h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Status </h2>
 
