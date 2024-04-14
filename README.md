@@ -15,11 +15,12 @@ Welcome to my github page! ✨✨ <br>
 
 + A senior comuter science student in National Taiwan University.
 + A Web3 security researcher & smart contract auditor <a href="https://code4rena.com/@LouisTsai">@Code4rena</a>, <a href="https://www.codehawks.com/profile/clloixi3x0000la08i46r5hc8">@Codehawks</a>, check my past <a href="https://github.com/LouisTsai-Csie/audit-profile">report</a>.
-
 + A full-stack developer building fun projects.
 
 <br>
 I am learning Web3 security, let's make Web3 a safer place!
+<br>
+<br>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
