@@ -37,7 +37,7 @@ I am learning Web3 security, let's make Web3 a safer place!
 <li>Maintain <a href="https://github.com/LouisTsai-Csie/awesome-smart-contract-analysis-tools">Awesome Smart Contract Analysis Tools</a>：A curated list of awesome smart contract analysis tools</li>
 <li>Maintain <a href="https://github.com/FinTechIntro">FintechIntro</a>：The teaching material, assignment, exams for the NTU course, "Introduction to Fintech."</li>
 <!-- <li><a href="Web3-Interview-Questions">Web3 Interview Questions</a>：Problems such as Solidity, DeFi, EVM and more</li> -->
-<li>Contribute <a href="https://github.com/SunWeb3Sec/DeFiHackLabs">DeFiHackLabs</a>: Reproduce DeFi hacked incidents using Foundry</li>
+<li>Contribute <a href="https://github.com/SunWeb3Sec/DeFiHackLabs">DeFiHackLabs</a>: Reproduce DeFi hacked incidents using Foundry, check my previous analyses at <a href="https://github.com/LouisTsai-Csie/past-attack-incident">past-attack-incident</a></li>
 
 <h3> Past Projects </h3>
 <li><a href="">LendMixer</a>：A minimal flash loan service for user </li>
