@@ -25,7 +25,7 @@ Welcome to my github page! ✨✨ Please help save my github contributions, the 
   
   <!-- Body -->
   <pre style="background:#000;color:#00ff66;font-family:'Courier New',Courier,monospace;padding:5px;margin:0;border-radius:0 0 8px 8px;text-align:left;white-space:pre-wrap;line-height:2;">
-I’m Louis Tsai, living on <a href="#" style="color:#00bfff;">Ethereum Mainnet</a> and contributing to its decentralized future.
+I’m Louis Tsai, living on <a href="#" style="color: inherit; text-decoration: underline;">Ethereum Mainnet</a> and contributing to its decentralized future.
 
 Graduated from NTU as a CS student, I focus on Web3 Security and Ethereum Research.
 
