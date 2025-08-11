@@ -1,11 +1,7 @@
 <h1> Welcome, My name is Louis Tsai<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <img src="https://komarev.com/ghpvc/?username=LouisTsai-Csie&label=Profile%20views&color=0e75b6&style=flat" />
 
-Welcome to my github page! ✨✨ <br>
-
-<br>
-
-<p font-size="3px"> Help save my github contributions, the snake is eating all of them! </p>
+Welcome to my github page! ✨✨ Please help save my github contributions, the snake is eating all of them!
 
 <br>
 <picture>
@@ -14,11 +10,32 @@ Welcome to my github page! ✨✨ <br>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LouisTsai-Csie/LouisTsai-Csie/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Who am I?</h2>
+<h2>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30"> Who am I?
+</h2>
 
-+ Computer science student for master degree @NTU.
-+ Web3 security researcher & smart contract auditor <a href="https://code4rena.com/@LouisTsai">@Code4rena</a>, <a href="https://www.codehawks.com/profile/clloixi3x0000la08i46r5hc8">@Codehawks</a>, check my past <a href="https://github.com/LouisTsai-Csie/audit-profile">report</a>.
-+ Full-stack developer building fun projects.
+
+<div align="center" style="max-width:780px;margin:0 auto;">
+  <!-- Header bar -->
+  <div style="background:#e0e0e0;padding:6px 12px;border-radius:8px 8px 0 0;display:flex;align-items:center;">
+    <div style="width:12px;height:12px;background:#ff5f57;border-radius:50%;margin-right:6px;"></div>
+    <div style="width:12px;height:12px;background:#ffbd2e;border-radius:50%;margin-right:6px;"></div>
+    <div style="width:12px;height:12px;background:#28c940;border-radius:50%;"></div>
+  </div>
+  
+  <!-- Body -->
+  <pre style="background:#000;color:#00ff66;font-family:'Courier New',Courier,monospace;padding:5px;margin:0;border-radius:0 0 8px 8px;text-align:left;white-space:pre-wrap;line-height:2;">
+I’m Louis Tsai, living on <a href="#" style="color:#00bfff;">Ethereum Mainnet</a> and contributing to its decentralized future.
+
+Graduated from NTU as a CS student, I focus on Web3 Security and Ethereum Research.
+
+As a white hat at <a href="#" style="color:#00bfff;">DeFiHackLabs</a>, I analyze attack incidents, join CTF challenges,
+  and participate in audit competitions at <a href="#" style="color:#00bfff;">Cantina</a> & <a href="#" style="color:#00bfff;">Codehawks</a>.
+
+I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
+
+<code style="color:#00bfff;background:#111;padding:0 4px;border-radius:4px;">eth / acc</code></pre>
+</div>
 
 <h2>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30">
