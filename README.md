@@ -133,7 +133,6 @@ I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
       <div style="margin-top:20px;">Event: <code>Black Hat Europe 2024</code> · <code>English</code></div>
     </td>
   </tr>
-
   <tr>
     <td style="background-color:#111; border:1px solid #333; border-radius:10px; padding:20px; display:flex; flex-direction:column; justify-content:space-between; min-height:160px;">
       <div>
@@ -156,7 +155,6 @@ I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
       <div style="margin-top:20px;">Event: <code>Ethereum Taipei Meetup</code> · <code>Chinese</code></div>
     </td>
   </tr>
-
   <tr>
     <td style="background-color:#111; border:1px solid #333; border-radius:10px; padding:20px; display:flex; flex-direction:column; justify-content:space-between; min-height:160px;">
       <div>
@@ -179,6 +177,26 @@ I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
       <div style="margin-top:20px;">Event: <code>CyberSec 2025</code> · <code>Chinese</code></div>
     </td>
   </tr>
+  <td width="50%" style="background-color:#111; border:1px solid #333; border-radius:10px; padding:20px; display:flex; flex-direction:column; justify-content:space-between; min-height:160px;">
+      <div>
+        <details>
+          <summary style="font-size:1.05rem;">👾 <a href="https://coscup.org/2025/sessions/WE9GXT">Ethereum Object Format (EOF): Necessary Evil or Needless Complexity?</a></summary>
+          <br/>
+          Using <code>Ghidra</code> to decompile & trace <code>EVM</code> bytecode for auditing and research.
+        </details>
+      </div><br/>
+      <div style="margin-top:20px;">Event: <code>COSCUP 2025</code> · <code>English</code></div>
+    </td>
+  <td width="50%" style="background-color:#111; border:1px solid #333; border-radius:10px; padding:20px; display:flex; flex-direction:column; justify-content:space-between; min-height:160px;">
+      <div>
+        <details>
+          <summary style="font-size:1.05rem;">👾 <a href="https://ethtaipei.org/agenda#info">A Deep Dive into EOF and Its Impact on Program Analysis</a></summary>
+          <br/>
+          Using <code>Ghidra</code> to decompile & trace <code>EVM</code> bytecode for auditing and research.
+        </details>
+      </div><br/>
+      <div style="margin-top:20px;">Event: <code>ETH Taipei</code> · <code>English</code></div>
+    </td>
 </table>
 
 
