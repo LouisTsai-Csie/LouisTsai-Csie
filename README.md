@@ -14,7 +14,6 @@ Welcome to my github page! ✨✨ Please help save my github contributions, the 
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30"> Who am I?
 </h2>
 
-
 <div align="center" style="max-width:780px;margin:0 auto;">
   <!-- Header bar -->
   <div style="background:#e0e0e0;padding:6px 12px;border-radius:8px 8px 0 0;display:flex;align-items:center;">
@@ -25,12 +24,12 @@ Welcome to my github page! ✨✨ Please help save my github contributions, the 
   
   <!-- Body -->
   <pre style="background:#000;color:#00ff66;font-family:'Courier New',Courier,monospace;padding:5px;margin:0;border-radius:0 0 8px 8px;text-align:left;white-space:pre-wrap;line-height:2;">
-I’m Louis Tsai, living on <a href="#" style="color: inherit; text-decoration: underline;">Ethereum Mainnet</a> and contributing to its decentralized future.
+I’m Louis Tsai, living on <a href="#" style="color:inherit; text-decoration:underline; text-decoration-color:currentColor;">Ethereum Mainnet</a> and contributing to its decentralized future.
 
 Graduated from NTU as a CS student, I focus on Web3 Security and Ethereum Research.
 
-As a white hat at <a href="#" style="color:#00bfff;">DeFiHackLabs</a>, I analyze attack incidents, join CTF challenges,
-  and participate in audit competitions at <a href="#" style="color:#00bfff;">Cantina</a> & <a href="#" style="color:#00bfff;">Codehawks</a>.
+As a white hat at <a href="#" style="color:inherit; text-decoration:underline; text-decoration-color:currentColor;">DeFiHackLabs</a>, I analyze attack incidents, join CTF challenges,
+  and participate in audit competitions at <a href="#" style="color:inherit; text-decoration:underline; text-decoration-color:currentColor;">Cantina</a> & <a href="#" style="color:inherit; text-decoration:underline; text-decoration-color:currentColor;">Codehawks</a>.
 
 I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
 
