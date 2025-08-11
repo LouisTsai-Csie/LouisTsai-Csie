@@ -54,6 +54,36 @@ My current research focus is Ethereum Object Format (EOF), any discussion is wel
 <li>Backend Internship @JunyiAcademy</li>
 <li>Past Software Trainee @AppWorks School Campus Program</li>
 
+<h2>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30">
+  More About Me
+</h2>
+
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <!-- Software Development -->
+    <td align="center" width="400" height="180" style="padding: 20px; vertical-align: top;">
+      <span style="font-size: 20px; font-weight: bold;"><b>💻 Software Development</b></span><br><br>
+      <span style="font-size: 13px;">Backend Intern @ Junyi Academy</span><br>
+      <span style="font-size: 13px;">Software Trainee @ AppWorks</span>
+    </td>
+    <!-- Web3 Security -->
+    <td align="center" width="400" height="180" style="padding: 20px; vertical-align: top;">
+      <span style="font-size: 20px; font-weight: bold;"><b>🛡️ Web3 Security</b></span><br><br>
+      <span style="font-size: 13px;">Web3 Security Intern @ Amber Group</span><br>
+      <span style="font-size: 13px;">Auditing Fellowship @ yAcademy</span>
+    </td>
+    <!-- Ethereum Research -->
+    <td align="center" width="400" height="180" style="padding: 20px; vertical-align: top;">
+      <span style="font-size: 20px; font-weight: bold;"><b>⛓️ Ethereum Research</b></span><br><br>
+      <span style="font-size: 13px;">Software Intern @ Ethereum Foundation</span><br>
+      <span style="font-size: 13px;">Blockchain Dev Trainee @ AppWorks</span>
+    </td>
+  </tr>
+</table>
+
+
+
 <h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30"> Status</h2>
 <p>A Solidity developer, auditor, enthusiast now</p>
 
