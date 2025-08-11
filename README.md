@@ -1,5 +1,8 @@
 <h1> Welcome, My name is Louis Tsai<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<img src="https://komarev.com/ghpvc/?username=LouisTsai-Csie&label=Profile%20views&color=0e75b6&style=flat" />
+
 Welcome to my github page! ✨✨ <br>
+
 <br>
 
 <p font-size="3px"> Help save my github contributions, the snake is eating all of them! </p>
@@ -51,13 +54,16 @@ My current research focus is Ethereum Object Format (EOF), any discussion is wel
 <li>Backend Internship @JunyiAcademy</li>
 <li>Past Software Trainee @AppWorks School Campus Program</li>
 
-<h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Status </h2>
-
+<h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30"> Status</h2>
 <p>A Solidity developer, auditor, enthusiast now</p>
-<div width="100%" display="flex" align-item="center" justify-content="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=LouisTsai-Csie&show_icons=true&theme=tokyonight">
-<img height="150px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisTsai-Csie&layout=compact&show_icons=true&theme=tokyonight&langs_count=5&hide=html,css">
-</div>
+
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=LouisTsai-Csie&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub stats">
+  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" width="16" height="1" alt="">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisTsai-Csie&layout=compact&theme=tokyonight&langs_count=5&hide=html,css&hide_border=true" alt="Top languages">
+  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" width="16" height="1" alt="">
+  <img height="140" src="https://streak-stats.demolab.com?user=LouisTsai-Csie&theme=tokyonight&hide_border=true" alt="Streak">
+</p>
 
 <h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30"> Skills</h2>
 
