@@ -182,12 +182,6 @@ I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
 </table>
 
 
-<h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Publication </h2>
-<li> <a href="https://ieeexplore.ieee.org/document/10349130">Secure Medical Data Management Based on Homomorphic Encryption and Secret Sharing</a </li>
-<li> <a href="https://www.computer.org/csdl/proceedings-article/blockchain/2023/192900a151/1U85Itfjn1K">Unveiling Vulnerabilities in DAO: A Comprehensive Security Analysis and Protective Framework</a></li>
-
-
-
 <h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30"> Status</h2>
 <p>A Solidity developer, auditor, enthusiast now</p>
 
@@ -251,3 +245,9 @@ I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
     </td>
   </tr>
 </table>
+
+<h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Publication </h2>
+<li> <a href="https://ieeexplore.ieee.org/document/10349130">Secure Medical Data Management Based on Homomorphic Encryption and Secret Sharing</a </li>
+<li> <a href="https://www.computer.org/csdl/proceedings-article/blockchain/2023/192900a151/1U85Itfjn1K">Unveiling Vulnerabilities in DAO: A Comprehensive Security Analysis and Protective Framework</a></li>
+
+
