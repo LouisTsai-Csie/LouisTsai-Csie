@@ -46,14 +46,6 @@ My current research focus is Ethereum Object Format (EOF), any discussion is wel
 <li> <a href="https://ieeexplore.ieee.org/document/10349130">Secure Medical Data Management Based on Homomorphic Encryption and Secret Sharing</a </li>
 <li> <a href="https://www.computer.org/csdl/proceedings-article/blockchain/2023/192900a151/1U85Itfjn1K">Unveiling Vulnerabilities in DAO: A Comprehensive Security Analysis and Protective Framework</a></li>
 
-<h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> More About Me </h2>
-
-<li>Web3 Security Research Intern @Amber Group</li>
-<li>Smart Contract Auditing Fellowship Block#6 @yAcademy</li>
-<li>Past Blockchain Developer Trainee @AppWorks School Blockchain Program </li>
-<li>Backend Internship @JunyiAcademy</li>
-<li>Past Software Trainee @AppWorks School Campus Program</li>
-
 <h2>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30">
   More About Me
