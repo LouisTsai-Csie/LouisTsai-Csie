@@ -20,13 +20,6 @@ Welcome to my github page! ✨✨ <br>
 + Web3 security researcher & smart contract auditor <a href="https://code4rena.com/@LouisTsai">@Code4rena</a>, <a href="https://www.codehawks.com/profile/clloixi3x0000la08i46r5hc8">@Codehawks</a>, check my past <a href="https://github.com/LouisTsai-Csie/audit-profile">report</a>.
 + Full-stack developer building fun projects.
 
-<br>
-My current research focus is Ethereum Object Format (EOF), any discussion is welcome
-<br>
-<br>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 <h2>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30">
   Projects
@@ -68,13 +61,82 @@ My current research focus is Ethereum Object Format (EOF), any discussion is wel
 </table>
 
 
-<h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Public Talks </h2>
-<li> <a href="https://ieeexplore.ieee.org/document/10349130](https://speak.devcon.org/devcon7-sea/talk/GSJ8EC/)">Reverse Engineering EVM Bytecode with Ghidra</a>, Devcon 7-sea </li>
-<li> <a href="https://www.blackhat.com/eu-24/arsenal/schedule/index.html#mothra-a-ghidra-evm-extension-42227">Mothra: A Ghidra EVM Extension</a>, Black Hat Europe</li>
-<li><a href="https://coscup.org/2024/en/session/DXAPTQ">Exploring Contract Analysis Tools by Unveiling Real-World Upgradeable Proxy Vulnerabilities</a>, COSCUP</li>
-<li><a href="https://www.canva.com/design/DAGNV4nS9Co/_mtaC9X71QC0_amZPEHo9Q/edit">Mastering Web3 Security: From Tracking Attacks to Reproducing Exploits</a>, Ethereum Taipei Meetup</li>
-<li><a href="https://www.youtube.com/watch?v=NNwcBCeNYV0">Reentrancy Vulnerabilities and DEX Security Analysis</a>, DeFiHackLabs Study Group</li>
-<li><a href="https://cybersec.ithome.com.tw/2025/session-page/3588">Security Challenges in Ethereum Layer 2 and Cross-Chain Ecosystems</a>, CyberSec 2025</li>
+<h2>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30">
+  Public Talks
+</h2>
+
+<table width="100%" style="margin:0 auto; border-collapse:separate; border-spacing:20px;">
+  <tr>
+    <td width="50%" style="background-color:#111; border:1px solid #333; border-radius:10px; padding:20px; display:flex; flex-direction:column; justify-content:space-between; min-height:160px;">
+      <div>
+        <details>
+          <summary style="font-size:1.05rem;">👾 <a href="https://speak.devcon.org/devcon7-sea/talk/GSJ8EC/">Reverse Engineering EVM Bytecode with Ghidra</a></summary>
+          <br/>
+          Using <code>Ghidra</code> to decompile & trace <code>EVM</code> bytecode for auditing and research.
+        </details>
+      </div><br/>
+      <div style="margin-top:20px;">Event: <code>Devcon 7</code> · <code>English</code></div>
+    </td>
+    <td width="50%" style="background-color:#111; border:1px solid #333; border-radius:10px; padding:20px; display:flex; flex-direction:column; justify-content:space-between; min-height:160px;">
+      <div>
+        <details>
+          <summary style="font-size:1.05rem;">👾 <a href="https://www.blackhat.com/eu-24/arsenal/schedule/index.html#mothra-a-ghidra-evm-extension-42227">Mothra: A Ghidra EVM Extension</a></summary>
+          <br/>
+          <code>Mothra</code> adds EVM disassembly, decompilation, and transaction tracing to <code>Ghidra</code>.
+        </details>
+      </div><br/>
+      <div style="margin-top:20px;">Event: <code>Black Hat Europe 2024</code> · <code>English</code></div>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="background-color:#111; border:1px solid #333; border-radius:10px; padding:20px; display:flex; flex-direction:column; justify-content:space-between; min-height:160px;">
+      <div>
+        <details>
+          <summary style="font-size:1.05rem;">👾 <a href="https://coscup.org/2024/en/session/DXAPTQ">Exploring Contract Analysis Tools by Unveiling Real-World Upgradeable Proxy Vulnerabilities</a></summary>
+          <br/>
+          Real-world upgradeable proxy risks and <code>Foundry</code> PoCs.
+        </details>
+      </div><br/>
+      <div style="margin-top:20px;">Event: <code>COSCUP 2024</code> · <code>Chinese</code></div>
+    </td>
+    <td style="background-color:#111; border:1px solid #333; border-radius:10px; padding:20px; display:flex; flex-direction:column; justify-content:space-between; min-height:160px;">
+      <div>
+        <details>
+          <summary style="font-size:1.05rem;">👾 <a href="https://www.canva.com/design/DAGNV4nS9Co/_mtaC9X71QC0_amZPEHo9Q/edit">Mastering Web3 Security: From Tracking Attacks to Reproducing Exploits</a></summary>
+          <br/>
+          From attack tracking to exploit reproduction, with DEX/oracle case studies.
+        </details>
+      </div><br />
+      <div style="margin-top:20px;">Event: <code>Ethereum Taipei Meetup</code> · <code>Chinese</code></div>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="background-color:#111; border:1px solid #333; border-radius:10px; padding:20px; display:flex; flex-direction:column; justify-content:space-between; min-height:160px;">
+      <div>
+        <details>
+          <summary style="font-size:1.05rem;">👾 <a href="https://www.youtube.com/watch?v=NNwcBCeNYV0">Reentrancy Vulnerabilities and DEX Security Analysis</a></summary>
+          <br/>
+          Modern reentrancy patterns, CEI pitfalls, and DEX edge cases.
+        </details>
+      </div><br/>
+      <div style="margin-top:20px;">Event: <code>DeFiHackLabs Study Group</code> · <code>Chinese</code></div>
+    </td>
+    <td style="background-color:#111; border:1px solid #333; border-radius:10px; padding:20px; display:flex; flex-direction:column; justify-content:space-between; min-height:160px;">
+      <div>
+        <details>
+          <summary style="font-size:1.05rem;">👾 <a href="https://cybersec.ithome.com.tw/2025/session-page/3588">Security Challenges in Ethereum Layer 2 and Cross-Chain Ecosystems</a></summary>
+          <br/>
+          Risks in bridges, sequencers, and cross-chain messaging layers.
+        </details>
+      </div><br/>
+      <div style="margin-top:20px;">Event: <code>CyberSec 2025</code> · <code>Chinese</code></div>
+    </td>
+  </tr>
+</table>
+
 
 <h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Publication </h2>
 <li> <a href="https://ieeexplore.ieee.org/document/10349130">Secure Medical Data Management Based on Homomorphic Encryption and Secret Sharing</a </li>
