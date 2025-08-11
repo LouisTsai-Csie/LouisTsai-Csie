@@ -27,12 +27,46 @@ My current research focus is Ethereum Object Format (EOF), any discussion is wel
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Projects </h2>
-<li>Develop <a href="https://github.com/syjcnss/Mothra">Mothra</a>: A ghidra extension that supports EVM decompilation</li>
-<li>Maintain <a href="https://github.com/LouisTsai-Csie/awesome-smart-contract-analysis-tools">Awesome Smart Contract Analysis Tools</a>：A curated list of awesome smart contract analysis tools</li>
-<li>Maintain <a href="https://github.com/FinTechIntro">FintechIntro</a>：The teaching material, assignment, exams for the NTU course, "Introductino to Decentralized Finance"</li>
-<!-- <li><a href="Web3-Interview-Questions">Web3 Interview Questions</a>：Problems such as Solidity, DeFi, EVM and more</li> -->
-<li>Contribute <a href="https://github.com/SunWeb3Sec/DeFiHackLabs">DeFiHackLabs</a>: Reproduce DeFi hacked incidents using Foundry, check my previous analyses at <a href="https://github.com/LouisTsai-Csie/past-attack-incident">past-attack-incident</a></li>
+<h2>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30">
+  Projects
+</h2>
+
+<table align="center" width="100%" style="border-collapse:separate; border-spacing:14px;">
+  <tr>
+    <td align="left" width="50%" style="vertical-align:top; padding:14px;">
+      <div>
+        <b>👾 <a href="https://github.com/syjcnss/Mothra">Mothra</a></b><br/><br/>
+        <span>TLDR: A Ghidra extension for <code>EVM</code> decompilation and transaction tracing.</span><br/><br/>
+        <span>Role: <code>Developer</code></span>
+      </div>
+    </td>
+    <td align="left" width="50%" style="vertical-align:top; padding:14px;">
+      <div>
+        <b>👾 <a href="https://github.com/LouisTsai-Csie/awesome-smart-contract-analysis-tools">Awesome Smart Contract Analysis Tools</a></b><br/><br/>
+        <span>TLDR: Curated list of smart‑contract analysis & auditing tooling.</span><br/><br/>
+        <span>Role: <code>Maintainer</code></span>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%" style="vertical-align:top; padding:14px;">
+      <div>
+        <b>👾 <a href="https://github.com/FinTechIntro">FintechIntro</a></b><br/><br/>
+        <span>TLDR: Materials for NTU “Introduction to Decentralized Finance”.</span><br/><br/>
+        <span>Role: <code>Maintainer</code> · <code>Teaching</code></span>
+      </div>
+    </td>
+    <td align="left" width="50%" style="vertical-align:top; padding:14px;">
+      <div>
+        <b>👾 <a href="https://github.com/SunWeb3Sec/DeFiHackLabs">DeFiHackLabs</a></b><br/><br/>
+        <span>TLDR: Reproducing DeFi incidents with <code>Foundry</code>. See analyses: <a href="https://github.com/LouisTsai-Csie/past-attack-incident">past‑attack‑incident</a>.</span><br/><br/>
+        <span>Role: <code>Contributor</code></span>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 <h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> Public Talks </h2>
 <li> <a href="https://ieeexplore.ieee.org/document/10349130](https://speak.devcon.org/devcon7-sea/talk/GSJ8EC/)">Reverse Engineering EVM Bytecode with Ghidra</a>, Devcon 7-sea </li>
