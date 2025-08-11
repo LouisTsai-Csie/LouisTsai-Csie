@@ -38,6 +38,34 @@ I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
 
 <h2>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30">
+  Experience
+</h2>
+
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <!-- Software Development -->
+    <td align="center" width="400" height="180" style="padding: 20px; vertical-align: top;">
+      <span style="font-size: 20px; font-weight: bold;"><b>💻 Software Development</b></span><br><br>
+      <span style="font-size: 13px;">Backend Intern @ Junyi Academy</span><br>
+      <span style="font-size: 13px;">Software Trainee @ AppWorks</span>
+    </td>
+    <!-- Web3 Security -->
+    <td align="center" width="400" height="180" style="padding: 20px; vertical-align: top;">
+      <span style="font-size: 20px; font-weight: bold;"><b>🛡️ Web3 Security</b></span><br><br>
+      <span style="font-size: 13px;">Web3 Security Intern @ Amber Group</span><br>
+      <span style="font-size: 13px;">Auditing Fellowship @ yAcademy</span>
+    </td>
+    <!-- Ethereum Research -->
+    <td align="center" width="400" height="180" style="padding: 20px; vertical-align: top;">
+      <span style="font-size: 20px; font-weight: bold;"><b>⛓️ Ethereum Research</b></span><br><br>
+      <span style="font-size: 13px;">Software Intern @ Ethereum Foundation</span><br>
+      <span style="font-size: 13px;">Blockchain Dev Trainee @ AppWorks</span>
+    </td>
+  </tr>
+</table>
+
+<h2>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30">
   Projects
 </h2>
 
@@ -158,45 +186,16 @@ I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
 <li> <a href="https://ieeexplore.ieee.org/document/10349130">Secure Medical Data Management Based on Homomorphic Encryption and Secret Sharing</a </li>
 <li> <a href="https://www.computer.org/csdl/proceedings-article/blockchain/2023/192900a151/1U85Itfjn1K">Unveiling Vulnerabilities in DAO: A Comprehensive Security Analysis and Protective Framework</a></li>
 
-<h2>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30">
-  More About Me
-</h2>
-
-<table align="center" style="border-collapse: collapse;">
-  <tr>
-    <!-- Software Development -->
-    <td align="center" width="400" height="180" style="padding: 20px; vertical-align: top;">
-      <span style="font-size: 20px; font-weight: bold;"><b>💻 Software Development</b></span><br><br>
-      <span style="font-size: 13px;">Backend Intern @ Junyi Academy</span><br>
-      <span style="font-size: 13px;">Software Trainee @ AppWorks</span>
-    </td>
-    <!-- Web3 Security -->
-    <td align="center" width="400" height="180" style="padding: 20px; vertical-align: top;">
-      <span style="font-size: 20px; font-weight: bold;"><b>🛡️ Web3 Security</b></span><br><br>
-      <span style="font-size: 13px;">Web3 Security Intern @ Amber Group</span><br>
-      <span style="font-size: 13px;">Auditing Fellowship @ yAcademy</span>
-    </td>
-    <!-- Ethereum Research -->
-    <td align="center" width="400" height="180" style="padding: 20px; vertical-align: top;">
-      <span style="font-size: 20px; font-weight: bold;"><b>⛓️ Ethereum Research</b></span><br><br>
-      <span style="font-size: 13px;">Software Intern @ Ethereum Foundation</span><br>
-      <span style="font-size: 13px;">Blockchain Dev Trainee @ AppWorks</span>
-    </td>
-  </tr>
-</table>
-
 
 
 <h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30"> Status</h2>
 <p>A Solidity developer, auditor, enthusiast now</p>
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=LouisTsai-Csie&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub stats">
   <img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" width="16" height="1" alt="">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisTsai-Csie&layout=compact&theme=tokyonight&langs_count=5&hide=html,css&hide_border=true" alt="Top languages">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LouisTsai-Csie&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub stats">
   <img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" width="16" height="1" alt="">
-  <img height="140" src="https://streak-stats.demolab.com?user=LouisTsai-Csie&theme=tokyonight&hide_border=true" alt="Streak">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisTsai-Csie&layout=compact&theme=tokyonight&langs_count=5&hide=html,css&hide_border=true" alt="Top languages">
 </p>
 
 <h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30"> Skills</h2>
