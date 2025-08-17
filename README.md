@@ -58,7 +58,7 @@ I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
     <!-- Ethereum Research -->
     <td align="center" width="400" height="180" style="padding: 20px; vertical-align: top;">
       <span style="font-size: 20px; font-weight: bold;"><b>⛓️ Ethereum Research</b></span><br><br>
-      <span style="font-size: 13px;">Software Intern @ Ethereum Foundation</span><br>
+      <span style="font-size: 13px;">EEST Intern @ Ethereum Foundation</span><br>
       <span style="font-size: 13px;">Blockchain Dev Trainee @ AppWorks</span>
     </td>
   </tr>
@@ -117,7 +117,7 @@ I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
         <details>
           <summary style="font-size:1.05rem;">👾 <a href="https://speak.devcon.org/devcon7-sea/talk/GSJ8EC/">Reverse Engineering EVM Bytecode with Ghidra</a></summary>
           <br/>
-          Using <code>Ghidra</code> to decompile & trace <code>EVM</code> bytecode for auditing and research.
+            Mothra is an extension that brings disassembly, control-flow graphing, and decompilation of EVM bytecode into <code>Ghidra</code>, enabling practical reverse engineering of Ethereum smart contracts.
         </details>
       </div><br/>
       <div style="margin-top:20px;">Event: <code>Devcon 7</code> · <code>English</code></div>
@@ -127,7 +127,7 @@ I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
         <details>
           <summary style="font-size:1.05rem;">👾 <a href="https://www.blackhat.com/eu-24/arsenal/schedule/index.html#mothra-a-ghidra-evm-extension-42227">Mothra: A Ghidra EVM Extension</a></summary>
           <br/>
-          <code>Mothra</code> adds EVM disassembly, decompilation, and transaction tracing to <code>Ghidra</code>.
+            Mothra is a <code>Ghidra</code> extension that enables EVM decompilation and interactive analysis, bridging Web2 reverse engineers into Web3 security through use cases such as unverified contract forensics and CTF challenges.
         </details>
       </div><br/>
       <div style="margin-top:20px;">Event: <code>Black Hat Europe 2024</code> · <code>English</code></div>
@@ -139,7 +139,7 @@ I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
         <details>
           <summary style="font-size:1.05rem;">👾 <a href="https://coscup.org/2024/en/session/DXAPTQ">Exploring Contract Analysis Tools by Unveiling Real-World Upgradeable Proxy Vulnerabilities</a></summary>
           <br/>
-          Real-world upgradeable proxy risks and <code>Foundry</code> PoCs.
+            This presentation introduces common smart contract security detection tools, using upgradeable proxies as a case study to show how these tools help identify well-known vulnerabilities and mitigate risks before they lead to real-world exploits.
         </details>
       </div><br/>
       <div style="margin-top:20px;">Event: <code>COSCUP 2024</code> · <code>Chinese</code></div>
@@ -149,7 +149,7 @@ I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
         <details>
           <summary style="font-size:1.05rem;">👾 <a href="https://www.canva.com/design/DAGNV4nS9Co/_mtaC9X71QC0_amZPEHo9Q/edit">Mastering Web3 Security: From Tracking Attacks to Reproducing Exploits</a></summary>
           <br/>
-          From attack tracking to exploit reproduction, with DEX/oracle case studies.
+            This talk explores Web3 security from attack trace analysis to exploit reproduction, introducing methods to track the latest incidents, study common vulnerabilities, and use Foundry to recreate attacks, with a live demo on contributing to DeFiHackLabs PoCs
         </details>
       </div><br />
       <div style="margin-top:20px;">Event: <code>Ethereum Taipei Meetup</code> · <code>Chinese</code></div>
@@ -161,7 +161,7 @@ I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
         <details>
           <summary style="font-size:1.05rem;">👾 <a href="https://www.youtube.com/watch?v=NNwcBCeNYV0">Reentrancy Vulnerabilities and DEX Security Analysis</a></summary>
           <br/>
-          Modern reentrancy patterns, CEI pitfalls, and DEX edge cases.
+            This is a study group session on blockchain security that focuses on security concerns related to Reentrancy issue and Decentralized Exchanges (DEXs), including price manipulation, swap path issues, and non-standard tokens.
         </details>
       </div><br/>
       <div style="margin-top:20px;">Event: <code>DeFiHackLabs Study Group</code> · <code>Chinese</code></div>
@@ -171,7 +171,7 @@ I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
         <details>
           <summary style="font-size:1.05rem;">👾 <a href="https://cybersec.ithome.com.tw/2025/session-page/3588">Security Challenges in Ethereum Layer 2 and Cross-Chain Ecosystems</a></summary>
           <br/>
-          Risks in bridges, sequencers, and cross-chain messaging layers.
+          As Ethereum scales through rollups and bridges, this talk uncovers their emerging security pitfalls and discusses how researchers and developers can mitigate these risks
         </details>
       </div><br/>
       <div style="margin-top:20px;">Event: <code>CyberSec 2025</code> · <code>Chinese</code></div>
@@ -182,7 +182,7 @@ I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
         <details>
           <summary style="font-size:1.05rem;">👾 <a href="https://coscup.org/2025/sessions/WE9GXT">Ethereum Object Format (EOF): Necessary Evil or Needless Complexity?</a></summary>
           <br/>
-          Using <code>Ghidra</code> to decompile & trace <code>EVM</code> bytecode for auditing and research.
+            This talk gives a technical and neutral overview of the Ethereum Object Format (EOF) — explaining what it solves, what it breaks, why it was removed from Fusaka, and whether it could return in the future.
         </details>
       </div><br/>
       <div style="margin-top:20px;">Event: <code>COSCUP 2025</code> · <code>English</code></div>
@@ -192,10 +192,10 @@ I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
         <details>
           <summary style="font-size:1.05rem;">👾 <a href="https://ethtaipei.org/agenda#info">A Deep Dive into EOF and Its Impact on Program Analysis</a></summary>
           <br/>
-          Using <code>Ghidra</code> to decompile & trace <code>EVM</code> bytecode for auditing and research.
+            This talk explores how the Ethereum Object Format (EOF) reshapes program analysis and reverse engineering, highlighting differences from legacy EVM, new control-flow mechanisms, and integration into the Mothra decompiler.
         </details>
       </div><br/>
-      <div style="margin-top:20px;">Event: <code>ETH Taipei</code> · <code>English</code></div>
+      <div style="margin-top:20px;">Event: <code>ETH Taipei 2025</code> · <code>English</code></div>
     </td>
 </table>
 
