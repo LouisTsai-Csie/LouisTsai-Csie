@@ -24,14 +24,11 @@ Welcome to my github page! ✨✨ Please help save my github contributions, the 
   
   <!-- Body -->
   <pre style="background:#000;color:#00ff66;font-family:'Courier New',Courier,monospace;padding:5px;margin:0;border-radius:0 0 8px 8px;text-align:left;white-space:pre-wrap;line-height:2;">
-I’m Louis Tsai, living on <a href="#" style="color:inherit; text-decoration:underline; text-decoration-color:currentColor;">Ethereum Mainnet</a> and contributing to its decentralized future.
-
+Hi, I’m Louis Tsai, who lives on Ethereum Mainnet and contributes to its decentralized future.
+    
 Graduated from NTU as a CS student, I focus on Web3 Security and Ethereum Research.
-
-As a white hat at <a href="#" style="color:inherit; text-decoration:underline; text-decoration-color:currentColor;">DeFiHackLabs</a>, I analyze attack incidents, join CTF challenges,
-  and participate in audit competitions at <a href="#" style="color:inherit; text-decoration:underline; text-decoration-color:currentColor;">Cantina</a> & <a href="#" style="color:inherit; text-decoration:underline; text-decoration-color:currentColor;">Codehawks</a>.
-
-I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
+    
+Analyze attack incidents; Join CTF challenges; Participate Audit competitions
 
 <code style="color:#00bfff;background:#111;padding:0 4px;border-radius:4px;">eth / acc</code></pre>
 </div>
@@ -43,6 +40,12 @@ I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
 
 <table align="center" style="border-collapse: collapse;">
   <tr>
+    <!-- Ethereum Research -->
+    <td align="center" width="400" height="180" style="padding: 20px; vertical-align: top;">
+      <span style="font-size: 20px; font-weight: bold;"><b>⛓️ Ethereum Research</b></span><br><br>
+      <span style="font-size: 13px;">STEEL Intern @ Ethereum Foundation</span><br>
+      <span style="font-size: 13px;">Blockchain Dev Trainee @ AppWorks</span>
+    </td>
     <!-- Software Development -->
     <td align="center" width="400" height="180" style="padding: 20px; vertical-align: top;">
       <span style="font-size: 20px; font-weight: bold;"><b>💻 Software Development</b></span><br><br>
@@ -54,12 +57,6 @@ I also enjoy creating fun projects and exploring new ideas, now is a vibe coder.
       <span style="font-size: 20px; font-weight: bold;"><b>🛡️ Web3 Security</b></span><br><br>
       <span style="font-size: 13px;">Web3 Security Intern @ Amber Group</span><br>
       <span style="font-size: 13px;">Auditing Fellowship @ yAcademy</span>
-    </td>
-    <!-- Ethereum Research -->
-    <td align="center" width="400" height="180" style="padding: 20px; vertical-align: top;">
-      <span style="font-size: 20px; font-weight: bold;"><b>⛓️ Ethereum Research</b></span><br><br>
-      <span style="font-size: 13px;">EEST Intern @ Ethereum Foundation</span><br>
-      <span style="font-size: 13px;">Blockchain Dev Trainee @ AppWorks</span>
     </td>
   </tr>
 </table>
